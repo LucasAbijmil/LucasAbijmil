@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Lucas, a 23 year old self-taught Swift & SwiftUI developer.
+I'm Lucas, a 24 year old self-taught Swift & SwiftUI developer.
 - 🔭 I’m currently working on [ViewBuilders](https://github.com/LucasAbijmil/ViewBuilders), [SwiftUI Catalog](https://github.com/LucasAbijmil/SwiftUI-Catalog) & some small application ideas.
 - 📫 You can reach me on Twitter: [@lucas_abijmil](https://twitter.com/lucas_abijmil). 
 - 🧠 Never stop learning, here are my best resources for Swift, SwiftUI, Combine & iOS: 
